@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "BarberGo",
+    "slug": "barbergo",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "backgroundColor": "#F5F7FA"
+    },
+    "ios": { "supportsTablet": true },
+    "android": { "edgeToEdgeEnabled": true },
+    "web": { "bundler": "metro" }
+  }
+}
